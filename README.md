@@ -6,7 +6,7 @@
 <!-- Typing Effect -->
 <p align="center">
   <a href="https://github.com/yourusername">
-    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=00C6FF&center=true&vCenter=true&width=600&lines=Machine+Learning+Enthusiast;Postgraduate+Student;Data+Analysis+Lover;R+Programming+Learner" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=00C6FF&center=true&vCenter=true&width=600&lines=Machine+Learning+Enthusiast;Postgraduate+Student;Data+Analysis;R+Programming+Learner" alt="Typing Animation" />
   </a>
 </p>
 
@@ -16,7 +16,7 @@
 - 🎓 **MBA (Systems)** – Noble PG College, 2024  
 - 💼 **6 months** experience as an **Analyst in Machine Learning**  
 - 🐍 Skilled in **Python** and **Machine Learning** projects  
-- 📊 Learning **R programming** for clinical trial data analysis  
+- 📊 Learning **R programming**   
 
 ---
 
@@ -33,8 +33,7 @@
 
 ---
 
-## 📌 Projects
-- 🔍 **Robust Hashing for Secure Image Processing**  
+## 📌 Projects 
 - 🤖 **Intermediate NLP Project** – Text Classification & Sentiment Analysis  
 - 📈 **Machine Learning Models** for predictive analytics  
 
