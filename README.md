@@ -1,14 +1,18 @@
-<h1 align="center">Hi there, I'm Uday Bhasker 👋</h1>
-
+<!-- Banner -->
 <p align="center">
-  🚀 <b>Machine Learning Enthusiast | Postgraduate Student</b><br>
-  💡 Passionate about <b>Machine Learning</b> and <b>Data Analysis</b><br>
-  🎯 Currently exploring <b>R programming</b> for clinical studies
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Uday%20Bhasker&fontSize=40&fontColor=ffffff" />
+</p>
+
+<!-- Typing Effect -->
+<p align="center">
+  <a href="https://github.com/yourusername">
+    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=00C6FF&center=true&vCenter=true&width=600&lines=Machine+Learning+Enthusiast;Postgraduate+Student;Data+Analysis+Lover;R+Programming+Learner" alt="Typing Animation" />
+  </a>
 </p>
 
 ---
 
-## 📖 About Me
+## 👨‍💻 About Me
 - 🎓 **MBA (Systems)** – Noble PG College, 2024  
 - 💼 **6 months** experience as an **Analyst in Machine Learning**  
 - 🐍 Skilled in **Python** and **Machine Learning** projects  
@@ -16,15 +20,13 @@
 
 ---
 
-## 🛠 Tech & Tools
+## 🚀 Tech Stack
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,r,mysql,git,github,vscode" height="50" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-004B87?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/matplotlib-004B87?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/dplyr-276DC3?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/r2rtf-ff69b4?style=for-the-badge"/>
 </p>
@@ -41,13 +43,14 @@
 ## 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=false" height="150" />
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
 ---
 
-## 📫 Connect with Me
+## 🌐 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/" target="_blank">
@@ -57,10 +60,13 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-⭐️ *"Curiosity drives learning, and consistency makes it powerful."*
+<!-- Footer Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=120&section=footer"/>
+</p>
