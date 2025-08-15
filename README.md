@@ -1,115 +1,72 @@
-<!-- ========================================================= -->
-<!--              U D A Y   B H A S K E R — R E A D M E        -->
-<!--     Drop this into: https://github.com/YOUR_GITHUB_USERNAME -->
-<!-- ========================================================= -->
-
-<!-- Hero Banner -->
+<!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:00c6ff,100:0072ff&text=Uday%20Bhasker&fontColor=ffffff&fontSize=44&fontAlignY=34" alt="Uday Bhasker Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Uday%20Bhasker&fontSize=40&fontColor=ffffff" />
 </p>
 
-<!-- Typing Intro -->
+<!-- Typing Effect -->
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3500&pause=700&center=true&vCenter=true&width=700&lines=Machine+Learning+Enthusiast;Postgraduate+Student;Data+Analysis+%26+Visualization;Learning+R+for+Clinical+Studies+(SDTM%2C+ADaM%2C+TFL)" alt="Typing Intro"/>
+  <a href="https://github.com/yourusername">
+    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=00C6FF&center=true&vCenter=true&width=600&lines=Machine+Learning+Enthusiast;Postgraduate+Student;Data+Analysis+Lover;R+Programming+Learner" alt="Typing Animation" />
   </a>
 </p>
 
-<!-- Quick Buttons -->
+---
+
+## 👨‍💻 About Me
+- 🎓 **MBA (Systems)** – Noble PG College, 2024  
+- 💼 **6 months** experience as an **Analyst in Machine Learning**  
+- 🐍 Skilled in **Python** and **Machine Learning** projects  
+- 📊 Learning **R programming** for clinical trial data analysis  
+
+---
+
+## 🚀 Tech Stack
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://skillicons.dev/icons?i=python,r,mysql,git,github,vscode" height="50" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/matplotlib-004B87?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/dplyr-276DC3?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/r2rtf-ff69b4?style=for-the-badge"/>
+</p>
+
+---
+
+## 📌 Projects
+- 🔍 **Robust Hashing for Secure Image Processing**  
+- 🤖 **Intermediate NLP Project** – Text Classification & Sentiment Analysis  
+- 📈 **Machine Learning Models** for predictive analytics  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" height="150"/>
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:bhaskeruday.777@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Profile-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="#projects">
-    <img src="https://img.shields.io/badge/Portfolio-Projects-2c7be5?style=for-the-badge&logo=readme&logoColor=white" alt="Projects"/>
+  <a href="https://github.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
-<!-- Stats Badges -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0072ff&style=for-the-badge" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&color=28a745&style=for-the-badge" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?label=Stars&color=ff9800&style=for-the-badge" alt="Stars"/>
-  <img src="https://img.shields.io/badge/Last%20Updated-today-brightgreen?style=for-the-badge" alt="Last Updated"/>
-</p>
-
 ---
-
-## 👋 About Me
-* 🎓 **MBA (Systems)** — Noble PG College, 2024  
-* 💼 **6 months** experience as an **Analyst in Machine Learning**  
-* 🐍 Skilled in **Python** + classical **ML**; building **NLP** prototypes  
-* 📊 Learning **R programming**  
-
-> I enjoy turning messy data into clear, defensible insights and shipping tiny, useful models.
-
----
-
-## 🛠 Tech Stack
-<!-- same tech stack content you had before -->
-
----
-
-## 🚀 Featured Projects
-<!-- same project table content you had before -->
-
----
-
-## 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=onedark&no-frame=true&no-bg=true&margin-w=10" alt="trophies"/>
-</p>
-
----
-
-## 📈 GitHub Stats & Activity
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="160"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" height="160"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" alt="activity graph"/>
-</p>
-
----
-
-## 🎓 Certifications & Coursework
-<details>
-  <summary><b>Certifications</b></summary>
-* Cisco — **Introduction to Cybersecurity**
-</details>
-<details>
-  <summary><b>Coursework & Learning Focus</b></summary>
-* R for Clinical Studies: **SDTM, ADaM, TFL**  
-* Python ML: **Modeling, Evaluation, Visualization**  
-* NLP: **Text cleaning, feature engineering, classic ML**
-</details>
-
----
-
-## 🤝 Connect
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:bhaskeruday.777@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
 
 <!-- Footer Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0072ff,100:00c6ff&section=footer" alt="Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=120&section=footer"/>
 </p>
